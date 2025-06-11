@@ -15,7 +15,7 @@ This is the frontend for the **Filatoon Admin Panel**, a secure web interface fo
 
 ## 🛠️ Tech Stack
 
--Vue js + HTML / CSS / JavaScript
+- Vue js + HTML / CSS / JavaScript
 - Tailwind
 
 ## 🚀 Live Demo
