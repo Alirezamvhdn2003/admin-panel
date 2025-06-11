@@ -2,7 +2,7 @@
 
 🌐 [Live Website](https://filatoon.ir)
 
-This is the frontend for the **Filatoon Admin Panel**, a secure web interface for managing **incremental backup agents** in databases. It includes user authentication (login/register) and a  home page tailored for admin-level access.
+This is the frontend for the **Filatoon Admin Panel**, a secure web interface for managing **incremental backup agents** in databases. It includes user authentication (login/register) and a  home page tailored for admin-level access. It is not responsive for mobile devices yet . please open it in big screen like pc or laptops
 
 ## 📌 Features
 
